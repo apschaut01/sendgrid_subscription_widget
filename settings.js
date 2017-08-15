@@ -6,7 +6,7 @@ exports.senderName = "Essence Restaurants Group";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list
-exports.listId = 1558826;
+exports.listId = "1558826";
 
 // set 'exports.templateId = null' to opt out of using a template
 // or a string with the templateId to use a template
