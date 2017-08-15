@@ -13,5 +13,5 @@ exports.listId = 1558826;
 exports.templateId = "34652f4d-dee8-462c-a843-0dcd7ac05e42";
 
 // receive an email when a new signup is confirmed
-exports.sendNotification = true;
+exports.sendNotification = false;
 exports.notificationEmail = "aaron@theimageshoppe.com";
