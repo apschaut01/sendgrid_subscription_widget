@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'https://protected-earth-58800.herokuapp.com';
+exports.url = 'http://protected-earth-58800.herokuapp.com';
 
 exports.senderEmail = "webmaster@theimageshoppe.com";
 exports.senderName = "Essence Restaurants Group";
